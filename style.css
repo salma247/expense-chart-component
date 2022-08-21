@@ -149,6 +149,9 @@ body {
   .bar-amount{
     font-size: 0.8rem;
   }
+  .day-group{
+    -webkit-tap-highlight-color: transparent;
+  }
 }
 
 
