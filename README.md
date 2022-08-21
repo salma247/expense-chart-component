@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github]https://github.com/salma247/expense-chart-component/)
-- Live Site URL: [live](https://salma247.github.io/expense-chart-component/)
+- Solution URL: [github](https://github.com/salma247/expense-chart-component/)
+- Live Site URL: [live site](https://salma247.github.io/expense-chart-component/)
 
 ## My process
 
